@@ -1,0 +1,33 @@
+<html>
+<head>
+<style>
+h1 {
+  color:Pink;
+  font-family: Times New Roman;
+  font-size: 400%;
+
+}
+
+p {
+  color: Pink;
+  font-family: courier;
+  font-size: 200%;
+  border: 3px solid blue;
+  padding: 30px;
+  margin: 50px;
+  background-color: Light pink;
+
+}
+
+</style>
+</head>
+<body>
+<h1> Hello Jo!</h1>
+<p> This web page contains all my personal information.</p>
+<p> Happy Birthday you are the best boyfriend I ever have I love you </p>
+<p> Thank you for always being here by my side and Thank you for always making me feel so special</p>
+
+
+
+</body>
+</html>
